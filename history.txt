@@ -1,0 +1,10 @@
+2e67f09 | 2024-11-24 | V3441BabkinLA | Update
+f76df08 | 2024-11-24 | V3441BabkinLA | Check README
+af8a9c4 | 2024-11-24 | V3441BabkinLA | add screenshots
+9144bc6 | 2024-11-24 | V3441BabkinLA | Revert "New comment3"
+acdc2d5 | 2024-11-24 | V3441BabkinLA | New comment3
+6b3391b | 2024-11-24 | V3441BabkinLA | New comment
+46a126b | 2024-11-24 | Bawerise | Create newfile
+921f53b | 2020-11-21 | Kurtyanik | Обновление информации
+c08a654 | 2020-11-21 | Kurtyanik | Файл создан пустым
+3c6e913 | 2020-11-21 | Kurtyanik | Initial commit
