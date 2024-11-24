@@ -2,4 +2,4 @@
 Лабораторная работа №6
 
 Создание учетной записи GITHUB
-!‎(screenshots/1.png)
+!‎(LR6/screenshots/1.png)
